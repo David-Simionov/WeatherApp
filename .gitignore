@@ -1,0 +1,8 @@
+# Ignore environment variables
+.env
+
+# Node modules (ако користиш npm пакети)
+node_modules/
+
+# macOS специфични фајлови
+.DS_Store
